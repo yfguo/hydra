@@ -1,0 +1,3 @@
+[submodule "tools/topo/hwloc/hwloc"]
+	path = tools/topo/hwloc/hwloc
+	url = https://github.com/open-mpi/hwloc
