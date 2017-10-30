@@ -4,3 +4,6 @@
 [submodule "confdb"]
 	path = confdb
 	url = git@github.com:pmodels/confdb
+[submodule "mpl"]
+	path = mpl
+	url = git@github.com:pmodels/mpl
