@@ -3,7 +3,7 @@
 	url = https://github.com/open-mpi/hwloc
 [submodule "confdb"]
 	path = confdb
-	url = git@github.com:pmodels/confdb
+	url = https://github.com/pmodels/confdb
 [submodule "mpl"]
 	path = mpl
-	url = git@github.com:pmodels/mpl
+	url = https://github.com/pmodels/mpl
