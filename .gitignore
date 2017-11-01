@@ -89,6 +89,7 @@ Makefile
 configure
 
 /VERSION
+/version.m4
 /aclocal.m4
 /bootstrap/include/bsci.h
 /bootstrap/src/bsci_init.c
